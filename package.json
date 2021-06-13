@@ -64,7 +64,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "prettier --write ./src"
+      "pre-commit": "npx prettier --write ./src"
     }
   }
 }
